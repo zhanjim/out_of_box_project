@@ -269,7 +269,8 @@ Remember: Every iOS developer started exactly where you are. The key is consiste
 - [ ] **Main Challenge Interface** ⏱️ *120 mins → See challenge interaction working*
   - [ ] Today's challenge card view → *See beautiful challenge card*
   - [ ] Challenge detail presentation → *See full challenge description*
-  - [ ] Accept/Skip action buttons → *See buttons respond to taps*
+  - [ ] Complete/Don't Like action buttons → *See buttons respond to taps*
+  - [ ] "Don't Like" action sheet with user choice → *See options: new challenge now or wait for surprise*
   - [ ] Completion confirmation flow → *See completion celebration*
   - [ ] Beautiful animations and transitions → *See smooth animations*
 

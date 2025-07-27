@@ -41,16 +41,17 @@ Out of Box is a daily challenge app that evolves from simple task delivery to an
 #### 1.2 Challenge Presentation
 - **FR-1.2.1**: Challenge displays in clean, minimal interface
 - **FR-1.2.2**: Challenge includes title, description, estimated time, and category
-- **FR-1.2.3**: User can accept or skip challenge
-- **FR-1.2.4**: Skipped challenges don't negatively impact user experience
-- **FR-1.2.5**: Challenge remains available until marked complete or skipped
+- **FR-1.2.3**: Challenge is automatically given to user (no acceptance required)
+- **FR-1.2.4**: User can complete challenge or indicate they don't like it
+- **FR-1.2.5**: Challenge remains available until user takes action
 
-#### 1.3 Challenge Completion
+#### 1.3 Challenge Interaction
 - **FR-1.3.1**: User can mark challenge as completed
-- **FR-1.3.2**: User can optionally add photo proof/memory
-- **FR-1.3.3**: Completed challenges appear in user's history
-- **FR-1.3.4**: User receives positive feedback upon completion
-- **FR-1.3.5**: Next challenge becomes available after completion or next day
+- **FR-1.3.2**: User can indicate they don't like a challenge (trash icon)
+- **FR-1.3.3**: When user doesn't like challenge, they choose: new challenge now or wait for surprise later
+- **FR-1.3.4**: Completed challenges appear in user's history
+- **FR-1.3.5**: User receives positive feedback upon completion
+- **FR-1.3.6**: "Don't like" actions don't negatively impact user experience
 
 ### 2. Challenge Content System
 
