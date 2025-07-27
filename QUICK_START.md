@@ -23,12 +23,20 @@ This guide will get you from zero to a working iOS app in your simulator in abou
 
 #### VS Code Extensions (Install These):
 ```bash
-# Open VS Code and install these extensions:
-# 1. Swift (by Swift Server Work Group)
-# 2. Swift Syntax Support
-# 3. iOS Common Files
-# 4. GitLens (for Git integration)
-# 5. Bracket Pair Colorizer (helpful for Swift)
+# Open VS Code Extensions panel (Cmd+Shift+X) and search for:
+
+# REQUIRED (Working as of 2024):
+1. "Swift" by Swift Server Work Group - Official Swift support
+2. "Swift Language Server" by Swift Server Work Group - LSP support  
+3. "GitLens" by GitKraken - Enhanced Git capabilities
+
+# HELPFUL (Optional):
+4. "Bracket Pair Colorizer 2" by CoenraadS - Colorful brackets
+5. "Path Intellisense" by Christian Kohler - File path autocomplete
+6. "Color Highlight" by Sergii N - Color preview in code
+
+# Note: Some extensions may not be found - that's normal! 
+# The core Swift extension is the most important one.
 ```
 
 #### File Watching Setup:
